@@ -1,2 +1,2 @@
-![image](https://github.com/BBBBrain/SU-VAE/tree/main/SU-VAE/image/framework.png)
-![image](https://github.com/BBBBrain/SU-VAE/tree/main/SU-VAE/image/sun_flower.png)
+![Framework of SU-VAE](https://github.com/BBBBrain/SU-VAE/raw/main/image/framework.png)
+![Results on Sunflower-MNIST data](https://github.com/BBBBrain/SU-VAE/raw/main/image/sun_flower.png)
